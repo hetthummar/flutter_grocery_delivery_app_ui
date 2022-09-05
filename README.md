@@ -1,16 +1,6 @@
-# grocerry_delivery
+# Flutter Grocery Delivery App UI
 
-A new Flutter project.
-
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+Grocery delivery app ui built with flutter. 
+  
+  
+![App Screenshot](https://firebasestorage.googleapis.com/v0/b/resume-b40bc.appspot.com/o/grocery_delivery_app_ui.png?alt=media&token=7c81ce2b-2d21-4279-a671-65ceadf44cdc)
